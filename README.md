@@ -29,14 +29,12 @@ Monitor the pot conditons (water tank leve, temperature & environment pressure) 
 
 ## Project tree
 ---
+<ul>
+   <li><a href="./Design/">Design</a></li>
+   <li><a href="./Documentation/">Documentation</a></li>
 
-<li><a href="./Design/">Design</a></li>
-<li><a href="./Documentation/">Documentation</a></li>
-
-<li><a href="./README.md">README.md</a></li>
-# WMF Ambient SmartPot
-The WMF Ambient SmartPot project is a set of PCBs alternative to the original [WMF Ambient Pot](https://www.wmf.com/es/wmf-ambient-kraeuter-athome.html) that provides a full smart solution for monitoring the plants.
-
+   <li><a href="./README.md">README.md</a></li>
+</ul>
 
 ## Disclaimer
 ---
