@@ -25,7 +25,10 @@ It is designed to serve as a an alternative to the original design poor in smart
 ### Applications:
 ---
 Monitor the pot conditons (water tank leve, temperature & environment pressure) and stream it to you Home Assistant setup, touch the pot for displaying the water level through the Neopixel ring and get notificatified by color alerts when the water level is critical.
-
+<p float="left">
+   <img src="./Documentation/Images/Info.gif" width="49%">
+   <img src="./Documentation/Images/Alert.gif" width="49%">   
+</p>
 
 ## Project tree
 ---
